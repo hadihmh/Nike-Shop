@@ -1,6 +1,6 @@
-# Sneaker Shop
+# My Nike Shop
 
-Flutter Sneaker Shop
+Flutter Nike Shop
  
 
 ## Video
